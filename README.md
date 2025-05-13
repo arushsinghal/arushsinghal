@@ -15,7 +15,6 @@
 - 🎓 B.E. Computer Engineering @ **Thapar University** (2023–2027)
 - 🤖 Passionate about building scalable **AI solutions** using Transformers, Neural Networks & CV
 - 🚀 Actively exploring **LLMs**, **NLP, CV**, and **Model Optimization**
-- 📡 Looking for exciting **AI/ML internship opportunities**
 
 ---
 
